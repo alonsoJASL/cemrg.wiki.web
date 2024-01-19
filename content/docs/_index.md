@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: General documentation for all users 
 type: book # Do not modify.
 toc: false
 ---
